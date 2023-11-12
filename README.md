@@ -14,15 +14,14 @@ PROJECT SCOPE: Creating a model to calculate the estimated price for football pl
 
 
 PROJECT STEPS:
-Day 1- Dataset exploration, description and EDA
+Day 1- Dataset exploration, description , cleaning , wrangling and EDA
    - Shape description
    - Column description
    - Assessment of redundant columns
    - Dropping of redundant columns
-   - Assessment of variable types (numerical, categorical ordinal and     categorical nominal)
+   - Assessment of variable types (numerical, categorical ordinal and categorical nominal)
    - Definition of independent variables
    - Definition of target variable
-- Data cleaning and wrangling 
    - Look for NaN values
    - Removal of rows with NaN values
    - Merging of weight, height and right/left columns from the fifa dataset with the player_value_data dataset
